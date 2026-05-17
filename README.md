@@ -1,7 +1,5 @@
 # 🔍 Fraud Detection — Assignment 1: Data Cleaning, Transformation & Feature Engineering
 
----
-
 ## 📌 Overview
 
 This repository contains **Assignment 1** of my Data Science project on **Credit Card Fraud Detection**. The goal of this assignment is to prepare a synthetic transactional dataset for machine learning by performing thorough **data cleaning**, **exploratory data analysis (EDA)**, **feature engineering**, and **data transformation**.
