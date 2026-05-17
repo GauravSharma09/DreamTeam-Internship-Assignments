@@ -1,11 +1,5 @@
 # 🔍 Fraud Detection — Assignment 1: Data Cleaning, Transformation & Feature Engineering
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-EDA-4c72b0)
-![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
-![Status](https://img.shields.io/badge/Assignment-1%20Complete-success)
-
 ---
 
 ## 📌 Overview
